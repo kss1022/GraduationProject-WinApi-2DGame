@@ -9,8 +9,5 @@ Use object Collision, Animation
 
 
 
-Stop the enemy's attack.
-
-
-Player(use gravity)  move, attack, use skill ,Summon friendly Unit(Prototype). - Input by Keyboard 
+Stop the enemy's attack.     -> Player(use gravity)  move, attack, use skill ,Summon friendly Unit(Prototype). - Input by Keyboard 
 
