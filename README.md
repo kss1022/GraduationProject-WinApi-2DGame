@@ -21,5 +21,4 @@ Stop the enemy's attack.     -> Player(use gravity)  move, attack, use skill ,Su
 ![image](https://user-images.githubusercontent.com/70006717/138313905-47216567-06ab-4740-bf0a-e8fe6bfba149.png)
 
 
-![Uploading image.png…]()
 
